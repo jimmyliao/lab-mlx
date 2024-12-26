@@ -142,6 +142,7 @@
 
 
 ### Note / References
+- Google Gemma Jax Inference site: [link](https://ai.google.dev/gemma/docs/jax_inference)
 - Apple JAX Metal site: [link](https://developer.apple.com/metal/jax/)
 - According to [this](https://github.com/jax-ml/jax/issues/21383#issuecomment-2130232491), you need to set up the environment variable `ENABLE_PJRT_COMPATIBILITY=1` to run the JAX code on Apple Silicon if you encounter the error message 
     ```bash
