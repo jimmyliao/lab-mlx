@@ -152,3 +152,4 @@
     ```bash
     pip uninstall -r requirements.txt --yes
     ```
+- Next MLX Exploration reference: [https://github.com/ml-explore/mlx/](https://github.com/ml-explore/mlx/)
