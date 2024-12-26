@@ -1,0 +1,19 @@
+python-dotenv==1.0.1
+tensorflow==2.14.0
+tensorflow-macos==2.14.0
+tensorflow-metal==1.1.0
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+jax==0.4.27
+jax-metal==0.1.0
+jaxlib==0.4.27
+jupyter
+kagglehub
+flax==0.10.2
+ml-dtypes==0.2.0
+
+# tensorflow-text==2.18.0
+# ml_dtypes==0.3.1
+# keras==3.6.0
+# keras-nlp==0.17.0
