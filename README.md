@@ -1,5 +1,15 @@
 # ML experiment for PyTorch, TensorFlow, and JAX on Apple Silicon
 
+Google 官網文件範例是使用 Colab (T4 GPU) 環境，但總是要理解怎麼用原生的 GPU 做 Inference 才能往效能調校之路邁進。
+
+這篇分享如何在 Apple Silicon 上面用 JAX/Flax inference Gemma2。
+
+Google's official documentation provides examples using the Colab (T4 GPU) environment. However, to truly understand performance tuning, it's essential to grasp how to perform inference using native GPUs.
+
+This article shares how to perform inference with Gemma2 using JAX/Flax on Apple Silicon.
+
+
+
 ## Part 1: Inference with Gemma using JAX and Flax on Apple Silicon
 
 ### Requirements
